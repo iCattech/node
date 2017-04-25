@@ -2,5 +2,5 @@
     "appSecret": "0012c533155ee7649349ed9925dedcf1",
     "pageAccessToken": "EAAKr66KsFZBUBACvtsniPRfpo9W4HSSU9F0kIqmhWihqpZByLVcY1mLykhj30nyD6H6yyJTWNwDoBkVNfFufZBWyrSkZBhTbREiCeYY8eBibHVrRe6jckCFD3ZAmMUP3urklUvUH3vJxUqCLVJSXziRNgAfAkIuSXSioxywGmVgZDZD",
     "validationToken": "12345678",
-    "serverURL": "https://98347e46.ngrok.io/webhook/"
+    "serverURL": "https://71be0676.ngrok.io"
 }
